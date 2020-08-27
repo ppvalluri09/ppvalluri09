@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ppvalluri09" alt="ppvalluri09" /> </p>
 
-- 🔭 I’m currently working on [lazyML](https://github.com/ppvalluri09/lazyML)
+- 🔭 I’m currently working on [lazyML](https://github.com/ppvalluri09/lazyML) and [In Silico Identification (Research Project)](#)
 
 - 🌱 I’m currently learning **Recommender Systems, Generative Models, Transformers, Google Trax, Flutter**
 
