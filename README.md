@@ -28,6 +28,6 @@
 <a href="https://dev.to/ppvalluri09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ppvalluri09" height="30" width="30" /></a>
 <a href="https://twitter.com/ppvalluri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ppvalluri" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/pavan preetham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pavan preetham" height="30" width="30" /></a>
-<a href="https://kaggle.com/ppvalluri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ppvalluri" height="30" width="30" /></a>
+<a href="https://kaggle.com/ppvalluri09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ppvalluri" height="30" width="30" /></a>
 <a href="https://instagram.com/ppvalluri09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ppvalluri09" height="30" width="30" /></a>
 </p>
