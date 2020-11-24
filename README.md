@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ppvalluri09" alt="ppvalluri09" /> </p>
 
-- 🔭 I’m currently working on [lazyML](https://github.com/ppvalluri09/lazyML) and [In Silico Identification (Research Project)](#)
+- 🔭 I’m currently working on and [Compund2Drug (Research Project)](https://github.com/ppvalluri09/Compound2Drug) and [lazytorch](https://github.com/ppvalluri09/torch)
 
 - 🌱 I’m currently learning **Recommender Systems, Generative Models, Transformers, Google Trax, Flutter**
 
-- 👯 I’m looking to collaborate on [lazyML](https://github.com/ppvalluri09/lazyML)
+- 👯 I’m looking to collaborate on [lazytorch](https://github.com/ppvalluri09/lazytorch)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ppvalluri09](https://github.com/ppvalluri09)
 
