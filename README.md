@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **ppvalluri09@gmail.com**
 
-- 📄 Currently working at [Cloudwiry](Cloudwiry)
+- 📄 Former machine learning engineer at [Morgan Stanley](Morgan Stanley)
 
 - ⚡ Fun fact **I love it when my losses are less**
 
